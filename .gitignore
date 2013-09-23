@@ -1,6 +1,44 @@
-*.class
+# OS
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+local.properties
 
-# Package Files #
+# BINARIES
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+
+# PACKAGES
+*.apk
+*.iso
+*.ipa
+*.jar
+*.war
+
+# ECLIPSE
+.classpath
+.project
+.settings
+
+# JAVA
+*.class
 *.jar
 *.war
 *.ear
+
+# ANDROID
+bin/
+gen/
+*.apk
+*.ap_
+*.dex
+
+# LOGS
+# logs
+*.log
