@@ -6,20 +6,24 @@ The project will focus on microprocessor firmware and also remote control softwa
 ___
 
 ####BeerduinoFirmware
-* firmware for main board of the beerduino
+- firmware for main board of the beerduino
+
 ___
 
 ####BeerduinoForAndroid
-* application for android OS to show and control Beerduino HW, also contains some basic beer calculations
+- application for android OS to show and control Beerduino HW, also contains some basic beer calculations
+
 ___
 
 ####BeerduinoForDesktop
-* multiplatform application based on the JAVA to show and control Beerduino HW, also contains some basic beer calculations and batch list creation
+- multiplatform application based on the JAVA to show and control Beerduino HW, also contains some basic beer calculations and batch list creation
+
 ___
 
 ####BeerduinoForWeb
-* web pages written in PHP to show and control Beerduino HW, also contains some basic beer calculations
+- web pages written in PHP to show and control Beerduino HW, also contains some basic beer calculations
+
 ___
 
 ####BeerduinoRESTAPI
-* REST API written in PHP, which can store settings, batches, etc. over the web
+- REST API written in PHP, which can store settings, batches, etc. over the web
