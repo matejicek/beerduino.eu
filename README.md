@@ -5,7 +5,7 @@
 *The project will focus on microprocessor firmware and also remote control software.*
 
 <br />
-<p align="center"><h3>Beerduino project consist of following modules:<h3></p>
+<p align="center"><h4>Beerduino project consist of following modules:<h4></p>
 <br />
 
 ####BeerduinoFirmware
