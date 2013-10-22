@@ -5,7 +5,8 @@
 *The project will focus on microprocessor firmware and also remote control software.*
 
 <br />
-<p align="center"><strong>Beerduino project consist of following modules:</strong></p>
+<p align="center"><strong><h2>Beerduino project consist of following modules:<h2></strong></p>
+<br />
 
 ####BeerduinoFirmware
 - firmware for main board of the beerduino
