@@ -1,4 +1,4 @@
-# H1 beerduino.eu
+#H1 beerduino.eu
 
 
 Beerduino project aims to create hardware based on microprocessor ATmega to control brewing process and related appliances.
