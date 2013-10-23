@@ -1,4 +1,4 @@
-###beerduino.eu
+<h1>beerduino.eu</h1>
 
 *[Beerduino](http://www.beerduino.eu) project aims to create hardware based on microprocessor ATmega to control brewing process and related appliances.*
 
@@ -9,6 +9,7 @@
 
 ####BeerduinoFirmware
 - firmware for main board of the beerduino
+- firmware for connected modules
 
 ___
 
